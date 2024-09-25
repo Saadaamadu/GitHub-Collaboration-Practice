@@ -1,0 +1,19 @@
+Cindy's group project code:
+cd -
+pwd
+cd Project\ 1/
+pwd
+git clone  https://github.com/Saadaamadu/GitHub-Collaboration-Practice.git
+cd GitHub-Collaboration-Practice/
+git checkout -b new_branch_c
+git checkout main
+git pull origin main
+git checkout your-branch-name
+git merge main
+ls
+nano newfile.txt
+touch cindy_group_project_code.txt
+git add*
+git status
+git commit -m "Adding Cindy's degree program, research interests, and code text file"
+git push
