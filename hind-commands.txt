@@ -1,0 +1,7 @@
+hind's commands:
+git clone https://github.com/Saadaamadu/GitHub-Collaboration-Practice.git
+cd GitHub-Collaboration-Practice
+git checkout -b hind-branch 
+git pull origin main
+git merge main
+
