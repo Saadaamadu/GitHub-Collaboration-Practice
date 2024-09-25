@@ -1,0 +1,26 @@
+Saada's Group Project Code
+
+cd git
+cd GitHub-Collaboration-Practice
+git pull
+git checkout -b saada_ new_branch
+ls
+nano newfile.txt
+*Saada’s Degree Program: City and Regional Planning
+*Saada’s Research Interests: urban food systems, climate resilience, livelihood adaptation, and equity building
+CTRL + O
+ENTER
+CRTL + X
+git add newfile.txt
+git commit -m “adding Saada’s info”
+git push
+touch saada.txt
+ls
+nano saada.txt
+added commands into saada.txt as requested
+CTRL + O
+ENTER
+CRTL + X
+git add saada.txt
+git commit -m "adding Saada's text file"
+git push
